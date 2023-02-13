@@ -1,5 +1,3 @@
-# 搞个 ubuntu 环境
-
 version: '3.7'
 
 services:
