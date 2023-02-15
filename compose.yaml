@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   ubuntu:
-    image: jlvihv/cairo-anaconda-env:0.1.1
+    image: jlvihv/cairo-anaconda-env:0.1.4
     container_name: cairo-python-env
     volumes:
       - ./compile.sh:/compile.sh
